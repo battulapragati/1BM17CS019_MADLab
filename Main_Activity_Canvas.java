@@ -48,3 +48,4 @@ public class MainActivity extends Activity
         canvas.drawLine(520, 850, 520, 1150, paint);
     }
 }
+
